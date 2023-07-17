@@ -1,0 +1,10 @@
+//Function to convert pixels to rem from css-tricks.com
+
+@function rem($pixels , $context: 16) {
+    @return ($pixels / $context) * 1rem;
+}
+
+//e.g. 30px to rem
+//h1{
+// font-size: rem(30);
+//}
