@@ -2,7 +2,7 @@
 
 light/dark mode toggle -- system pref by default, can change by toggle switch
 -html markup
-use fieldset, legend, radio inputs
+use fieldset, legend, radio input
 -switching between modes using JS
 -three option switch? dark/light/system
 
